@@ -1,2 +1,2 @@
-# Slogan-AI
-Slogan
+# SentryNode AI
+SentryNode
