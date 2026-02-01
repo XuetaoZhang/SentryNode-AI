@@ -16,6 +16,10 @@
 
 ---
 
+## 演示地址 | Demo
+
+*  [SentryNode-chat](https://slogan-chat.vercel.app/)
+
 ## ✨ 为什么需要这个工具? | Why SentryNode AI?
 
 在 Web3 市场中，社群面临着诸多痛点：
